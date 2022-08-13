@@ -1,0 +1,14 @@
+C:\KalAcademy\DSA\Dynamic Programming\8_Queen\8_Queen\bin\Debug\netcoreapp3.1\8_Queen.exe
+C:\KalAcademy\DSA\Dynamic Programming\8_Queen\8_Queen\bin\Debug\netcoreapp3.1\8_Queen.deps.json
+C:\KalAcademy\DSA\Dynamic Programming\8_Queen\8_Queen\bin\Debug\netcoreapp3.1\8_Queen.runtimeconfig.json
+C:\KalAcademy\DSA\Dynamic Programming\8_Queen\8_Queen\bin\Debug\netcoreapp3.1\8_Queen.runtimeconfig.dev.json
+C:\KalAcademy\DSA\Dynamic Programming\8_Queen\8_Queen\bin\Debug\netcoreapp3.1\8_Queen.dll
+C:\KalAcademy\DSA\Dynamic Programming\8_Queen\8_Queen\bin\Debug\netcoreapp3.1\8_Queen.pdb
+C:\KalAcademy\DSA\Dynamic Programming\8_Queen\8_Queen\obj\Debug\netcoreapp3.1\8_Queen.csproj.AssemblyReference.cache
+C:\KalAcademy\DSA\Dynamic Programming\8_Queen\8_Queen\obj\Debug\netcoreapp3.1\8_Queen.GeneratedMSBuildEditorConfig.editorconfig
+C:\KalAcademy\DSA\Dynamic Programming\8_Queen\8_Queen\obj\Debug\netcoreapp3.1\8_Queen.AssemblyInfoInputs.cache
+C:\KalAcademy\DSA\Dynamic Programming\8_Queen\8_Queen\obj\Debug\netcoreapp3.1\8_Queen.AssemblyInfo.cs
+C:\KalAcademy\DSA\Dynamic Programming\8_Queen\8_Queen\obj\Debug\netcoreapp3.1\8_Queen.csproj.CoreCompileInputs.cache
+C:\KalAcademy\DSA\Dynamic Programming\8_Queen\8_Queen\obj\Debug\netcoreapp3.1\8_Queen.dll
+C:\KalAcademy\DSA\Dynamic Programming\8_Queen\8_Queen\obj\Debug\netcoreapp3.1\8_Queen.pdb
+C:\KalAcademy\DSA\Dynamic Programming\8_Queen\8_Queen\obj\Debug\netcoreapp3.1\8_Queen.genruntimeconfig.cache
